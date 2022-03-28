@@ -9,15 +9,15 @@ Obtendo ajuda:
       ![image](https://user-images.githubusercontent.com/13034312/160484909-80dc788d-b132-48cb-9c0f-475a0da18b73.png)
 
 
-help [comando]
+  help [comando]
 
-  Ele responde as opções de uso e a explicação de cada opção
+    Ele responde as opções de uso e a explicação de cada opção
 
-  apropos [palavra chave] [palavra chave]
+   apropos [palavra chave] [palavra chave]
 
     identifica comandos a partir das palavras chaves em um banco de dados e mostra informações do mesmo
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aad64b21-caf3-4ab8-934e-7610a7030899/Untitled.png)
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aad64b21-caf3-4ab8-934e-7610a7030899/Untitled.png)
 
 [https://explainshell.com](https://explainshell.com/)
 
