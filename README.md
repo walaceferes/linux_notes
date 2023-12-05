@@ -8,6 +8,8 @@ Tambéns é na pasta bin/ onde ficam armazenadas os arquivosos dos comandos que 
 
 Duas pastas que tem relação comk o bin/ são as pastas "usr/bin", onde ficam os arquivos dos programas instalados pelo usuário no SO e o "sbin/"(superuser/bin), onde ficam armazenados os aquivos referentes aos programas que administram o SO. 
 
+A pasta /bin também é um dos primeiros diretŕios a serem montados na inicalização do SO. Devido a estrem nele os arquivos responsáveis pelo funcionamento dos comandos essenciais do sistema, para que assim, esses possam estar disponíveis até mesmo em momentos de recuperação ou troubleshoot na inicialização do SO. Por esses motivos, praticamente todas as instalações mímimas do Linux irão conter a pastas /bin.
+
 * boot
 * dev
 * etc
