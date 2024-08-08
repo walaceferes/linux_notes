@@ -22,3 +22,7 @@ A pasta /bin também é um dos primeiros diretŕios a serem montados na inicaliz
 * tmp
 * usr
 * var
+
+## Comandos Úteis
+trocar senha do user: passwd username
+pesquisar palavras ou comandos no history: history | grep comando ou "pedaço" do mesmo 
